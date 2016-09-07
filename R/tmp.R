@@ -1,0 +1,1 @@
+fnc = function(x) x
